@@ -23,7 +23,7 @@ node server.js
 To see further usage instructions, refer to the video walkthrough in the #video section
 
 ## Video
-
+https://drive.google.com/file/d/18KaD4p6ucBLx4Stw16Fpa4saBsF7sEGL/view
 
 ## Questions
 My Github Profile: [arob3990](https://github.com/arob3990)
